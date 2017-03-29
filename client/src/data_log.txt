@@ -1,0 +1,76 @@
+.
+..
+$RECYCLE.BIN
+.DS_Store
+.git
+.localized
+.qmake.stash
+0.docx
+2014013428
+android-ndk-r10e
+android-sdk-macosx
+baseline-originallda
+contribution.numbers
+contribution.xlsx
+cvpr
+data_srt
+datalab-handout
+Deeply-Supervised Nets.pdf
+Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification.pdf
+dhn_entropy.pdf
+django-code
+force_data.pages
+freetype-2.4.0
+FTP
+git_reposity
+Git教程.pdf
+googlenet.jpg
+gre
+gre_title.pages
+Gun And Fish
+haskell函数
+haskell类型树.png
+homework1.tex
+homework2.log
+homework2.pdf
+homework2.tex
+hw5
+Latex符号对应表.pdf
+machine learning
+mathType
+new.py
+notes1_2.pdf
+notes1_2.tex
+P1
+P1 2
+pami
+paper
+ppt.pptx
+pra.py
+protobuf-2.6-1
+pythonjson.png
+question.pdf
+R-devel
+report.pages
+sim
+sim.bat
+software3
+software_engineering_3
+spark_mooc
+srtpaper.pages
+SRT会议记录ver1.docx
+svm-python-v204
+test.hs
+texmaker_script
+Thumbs.db
+Training Very Deep Networks.pdf
+udp_doc.pages
+Understanding the difficulty of training deep feedforward neural networks.pdf
+WeChat_1445620336.jpeg
+WeChat_1445871949.jpeg
+xv6
+实验报告.pdf
+操作系统作业1.pages
+文集
+答案.pages
+英语3.pages
